@@ -36,7 +36,6 @@ These were good ideas at the time. The time has passed.
 
 | Repo | Description |
 |------|-------------|
-| [go-auth0](https://github.com/schigh/go-auth0) | Go SDK for the Auth0 Management API |
 | [tools](https://github.com/schigh/tools) | TOOLS, YO |
 | [carto](https://github.com/schigh/carto) | Map builder |
 | [state](https://github.com/schigh/state) | State machines |
