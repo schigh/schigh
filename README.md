@@ -30,6 +30,7 @@ These were good ideas at the time. The time has passed.
 |------|------------|-------|
 | [fony](https://github.com/schigh/fony) | A phony endpoint simulator for integration tests | ⭐ 8 |
 | [slices](https://github.com/schigh/slices) | Slice convenience functions, now mostly in the stdlib | ⭐ 6 |
+| [carto](https://github.com/schigh/carto) | Map builder | ⭐ 0 |
 
 <details>
 <summary>More repos (for the curious)</summary>
@@ -37,7 +38,6 @@ These were good ideas at the time. The time has passed.
 | Repo | Description |
 |------|-------------|
 | [tools](https://github.com/schigh/tools) | TOOLS, YO |
-| [carto](https://github.com/schigh/carto) | Map builder |
 | [state](https://github.com/schigh/state) | State machines |
 | [guid](https://github.com/schigh/guid) | GUIDs. That’s it. That’s the repo. |
 
